@@ -1,3 +1,8 @@
+/*
+	This C program is able to generate square bitmaps of any dimension. This is my first ever project to upload here.
+*/
+
+
 #include<stdio.h>
 #include<String.h>
 #include<stdint.h>
@@ -187,7 +192,6 @@ void generateSqBitmap(int s)
 		
 		for(j = 0; j < (i.height/2); j++)
 		{
-
 			for(it = 0; it < stopl; it++)
 			{
 				fwrite(&whitep, sizeof(whitep), 1, fp);
