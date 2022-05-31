@@ -1,6 +1,8 @@
 /*
 	This program writes the English alphabet to an array, prints the array, then
 	converts the array to lowercase characters and then prints it again.
+	
+	Every step of the process is documented with the use of comments except for obvious ones.
 */
 
 #include<stdio.h>
