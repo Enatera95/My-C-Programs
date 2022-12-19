@@ -217,6 +217,7 @@ void generateSqBitmap(int s)
 
 int main()
 {
+	//The computer is being told to write a 4000px by 4000px bitmap file.
 	generateSqBitmap(4000);
 	return 0;
 }
