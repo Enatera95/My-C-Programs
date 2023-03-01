@@ -1,5 +1,5 @@
 # My-C-Programs
-This is a collection of amateur C program I have written.
+This is a collection of amateur C programs I have written.
 
 1. Pointer Usage - Here I show some usage of pointers in C.
 
