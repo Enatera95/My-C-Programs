@@ -1,0 +1,5 @@
+Cool projects
+
+1. Base64 encoder
+2. JPEG compressor
+3. Neural network with 6 nodes
